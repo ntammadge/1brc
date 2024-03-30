@@ -1,3 +1,5 @@
+NOTE: For my implementation, see [this folder](./src/main/go/ntammadge/). Everything else contained in this file is as forked from the [original repository](https://github.com/gunnarmorling/1brc).
+
 # 1️⃣🐝🏎️ The One Billion Row Challenge
 
 _Status Feb 4: The final leaderboards [have been published](https://www.morling.dev/blog/1brc-results-are-in/). Congrats to all the winners, and a big thank you to everyone participating in this challenge as well as to everyone helping to organize it!_
